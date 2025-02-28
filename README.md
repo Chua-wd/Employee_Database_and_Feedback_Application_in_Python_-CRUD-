@@ -99,6 +99,8 @@ def add_feedback():
 ```
 ## Repository and Documentation
 
-Complete code and flowchart available on GitHub: [Link](https://github.com/Chua-wd/Employee_Database_and_Feedback_Application_in_Python_-CRUD-/blob/main/M1_Capstone%20Project_Employee%20Database_Chua_Wira_Dirgantara.drawio.pdf)
+- Complete code and flowchart available on [Link](https://github.com/Chua-wd/Employee_Database_and_Feedback_Application_in_Python_-CRUD-/blob/main/M1_Capstone%20Project_Employee%20Database_Chua_Wira_Dirgantara.drawio.pdf)
+
+- Article on [Medium](https://medium.com/@wiradirgantara55/employee-database-and-feedback-application-in-phyton-crud-c5f4204a21d6)
 
 This project demonstrates a structured approach to handling employee records and feedback using CRUD operations in Python.
