@@ -96,9 +96,8 @@ def delete_employee():
 def add_feedback():
     """Allows users to submit feedback."""
     pass
-
-
-# Repository and Documentation
+```
+## Repository and Documentation
 
 Complete code and flowchart available on GitHub: [Link](https://github.com/Chua-wd/Employee_Database_and_Feedback_Application_in_Python_-CRUD-/blob/main/M1_Capstone%20Project_Employee%20Database_Chua_Wira_Dirgantara.drawio.pdf)
 
